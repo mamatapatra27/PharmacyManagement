@@ -1,4 +1,4 @@
-# Pharmacy Management System Using Asp.Net Web Form
+# Pharmacy Management System, C# Project Using Asp.Net Web Form
   Clone this repository on your local system then execute.
   
 # Use Username && Password
